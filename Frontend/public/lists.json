@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "The Pragmatic Programmer",
+      "title": "Your Journey to Mastery",
+      "price": 29.99,
+      "category": "Technology",
+      "image": "https://example.com/images/pragmatic-programmer.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Clean Code",
+      "title": "A Handbook of Agile Software Craftsmanship",
+      "price": 32.50,
+      "category": "Technology",
+      "image": "https://example.com/images/clean-code.jpg"
+    },
+    {
+      "id": 3,
+      "name": "1984",
+      "title": "A Novel",
+      "price": 9.99,
+      "category": "Fiction",
+      "image": "https://example.com/images/1984.jpg"
+    },
+    {
+      "id": 4,
+      "name": "To Kill a Mockingbird",
+      "title": "A Novel",
+      "price": 12.50,
+      "category": "Fiction",
+      "image": "https://example.com/images/to-kill-a-mockingbird.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sapiens",
+      "title": "A Brief History of Humankind",
+      "price": 18.99,
+      "category": "History",
+      "image": "https://example.com/images/sapiens.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Atomic Habits",
+      "title": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "price": 16.00,
+      "category": "Self-help",
+      "image": "https://example.com/images/atomic-habits.jpg"
+    },
+    {
+      "id": 7,
+      "name": "The Lean Startup",
+      "title": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+      "price": 25.00,
+      "category": "Business",
+      "image": "https://example.com/images/lean-startup.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Deep Work",
+      "title": "Rules for Focused Success in a Distracted World",
+      "price": 22.95,
+      "category": "Productivity",
+      "image": "https://example.com/images/deep-work.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "title": "A Counterintuitive Approach to Living a Good Life",
+      "price": 14.99,
+      "category": "Self-help",
+      "image": "https://example.com/images/subtle-art.jpg"
+    },
+    {
+      "id": 10,
+      "name": "The Art of War",
+      "title": "An Ancient Chinese Military Treatise",
+      "price": 10.99,
+      "category": "History",
+      "image": "https://example.com/images/art-of-war.jpg"
+    }
+  ]
+  
